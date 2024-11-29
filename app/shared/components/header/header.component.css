@@ -1,0 +1,32 @@
+nav {
+  background: linear-gradient(to right, #d95e9b, #5a15c8);
+  color: #FFF;
+}
+nav .content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+#img1 {
+  width: 100px;
+}
+#img2 {
+  width: 50px;
+}
+#img3 {
+  width: 50px;
+}
+nav .content ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 35%;
+  margin: 0;
+}
+nav .content ul li {
+  cursor: pointer;
+  font-size: 22px;
+  color: #FFF;
+  text-decoration: none;
+}/*# sourceMappingURL=header.component.css.map */
